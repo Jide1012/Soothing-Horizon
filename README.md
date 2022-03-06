@@ -1,11 +1,20 @@
-# <The Horizon>
+# <Soothing Horizon>
 
 I did this project because I was hired by a marketing agency that that met accessiblity standards. I found the scemantic HTML elements and made sure that the CSS selectors were condensed and organized to follow sematic structure. I learnt how and when to use the different HTML Scemantics to make the website easy to use.
 
-Installation:
+Installation: To get my project pushed to Github and Running. Step 1: I first created a new Repository called Soothing Horizon
+Step 2: Open the terminal
+Step 3:Set your local project as the current working directory, Initialize directory as a Git repository,
+Step 4: Initialize the local directory as a Git Repository
+Step 5: Add the files in your new local repository. Stage files as your "First Commit"
+Step 6: Commit Files in your local reository
+Step 7: Copy the remote repositiry's URL
+Step 8: Add the URL for the Remote repository to push.
+Step 9: Push the code in your local repository.
+
 Usage:
 Credits: SMU.com
-License:
+
 
 
 
@@ -17,9 +26,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
@@ -31,19 +38,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
